@@ -78,7 +78,7 @@ Note the deployed contract address.
 Replace 0xYourContractAddress and /* ABI goes here */ with your deployed contract address and ABI.
 
 # Smart Contract
-The smart contract is located in the src directory. It defines the crowdfunding logic and includes functions for contributing, withdrawing funds, and getting refunds.
+The smart contract is located in the `src` directory. It defines the crowdfunding logic and includes functions for contributing, withdrawing funds, and getting refunds.
 Interact with the Contract
 Contribute: Enter an amount in the input field and click "Contribute".
 Withdraw Funds: Click "Withdraw Funds" (only available to the owner).
