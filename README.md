@@ -85,6 +85,8 @@ Withdraw Funds: Click "Withdraw Funds" (only available to the owner).
 Get a Refund: Click "Get Refund" if the funding goal was not reached.
 This is a simple guide to get you started with deploying and interacting with your crowdfunding contract using Foundry and building a basic frontend interface. You can also do the same on REMIX. 
 
+## Run the Frontend
+Open index.html in a web browser. Ensure you have MetaMask installed and connected to the correct network.
 
 ![image](https://github.com/DCVglobalnetwork/Crowdfunding-Platform-Project/assets/105791829/849a92cd-395d-46c2-8833-f813fb79ced4)
 
