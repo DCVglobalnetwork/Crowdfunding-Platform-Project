@@ -79,8 +79,14 @@ Replace 0xYourContractAddress and /* ABI goes here */ with your deployed contrac
 
 # Smart Contract
 The smart contract is located in the src directory. It defines the crowdfunding logic and includes functions for contributing, withdrawing funds, and getting refunds.
+Interact with the Contract
+Contribute: Enter an amount in the input field and click "Contribute".
+Withdraw Funds: Click "Withdraw Funds" (only available to the owner).
+Get a Refund: Click "Get Refund" if the funding goal was not reached.
+This is a simple guide to get you started with deploying and interacting with your crowdfunding contract using Foundry and building a basic frontend interface. You can also do the same on REMIX. 
 
-Interacting with the Platform
+
+![image](https://github.com/DCVglobalnetwork/Crowdfunding-Platform-Project/assets/105791829/849a92cd-395d-46c2-8833-f813fb79ced4)
 
 
 ## Contributing
