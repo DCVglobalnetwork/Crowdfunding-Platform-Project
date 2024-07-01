@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crowdfunding App</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/ethers@5.4.7/dist/ethers.min.js"></script>
+    <script src="app.js" defer></script>
+</head>
+
+<body>
+    <h1>My Web3 Crowdfunding App</h1>
+    <div>
+        <h2>Contribute to the Campaign</h2>
+        <input type="number" id="contributionAmount" placeholder="Amount in ETH">
+        <button onclick="contribute()">Contribute</button>
+    </div>
+    <div>
+        <h2>Owner Actions</h2>
+        <button onclick="withdrawFunds()">Withdraw Funds</button>
+    </div>
+    <div>
+        <h2>Get a Refund</h2>
+        <button onclick="getRefund()">Get Refund</button>
+    </div>
+</body>
+
+</html>
